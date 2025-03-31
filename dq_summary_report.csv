@@ -1,0 +1,11 @@
+DQ Rule,Records Checked,Issues Found,Pass %
+Null Check: instrument_isin,86134,0,100.0
+Null Check: instrument_symbol_or_scrip_code,86134,0,100.0
+Null Check: close,86134,0,100.0
+Null Check: total_traded_qty,86134,0,100.0
+Duplicate Check: trade_date + symbol,86134,0,100.0
+Price Change > 100%,86134,105,99.88
+Volume > 10000 Median,86134,6,99.99
+ISIN Format Validation,86134,0,100.0
+Price Erroe,86134,2,100.0
+Total Traded Value <= 0,86134,2,100.0
