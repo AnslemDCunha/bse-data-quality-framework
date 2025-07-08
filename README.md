@@ -7,7 +7,7 @@ This project validates Indian stock market data from BSE using automated Data Qu
 - Null checks, duplicate checks, outlier detection
 - ISIN validation, price consistency rules
 - Styled summary of DQ issues
-- Output as CSV for dashboarding/reporting
+- Output as CSV for dashboarding/reporting 
 
 ## 📂 Files
 - `Formatted_DQ_Project_Notebook.ipynb` – main notebook
